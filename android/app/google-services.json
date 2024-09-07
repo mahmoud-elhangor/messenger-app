@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569948781438",
+    "project_id": "messaging-app-cae4b",
+    "storage_bucket": "messaging-app-cae4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569948781438:android:c7f53e0c47ee0a7848d12f",
+        "android_client_info": {
+          "package_name": "com.example.messaging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDAKkYeixAbiYo-XNr-LFEBljQbA75I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
